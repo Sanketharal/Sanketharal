@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently pursuing B-TECH in computer engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my linkdin profile link www.linkedin.com/in/Sanketharal
+- 📫 How to reach me ...
+- my linkedin profile link www.linkedin.com/in/Sanketharal
 
 
 
