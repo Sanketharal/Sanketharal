@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanketharal
-- 👀 I’m interested in Web devlopment
+- 👀 I’m interested in Web devlopment 
 - 🌱 I’m currently pursuing B-TECH in computer engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
