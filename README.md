@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sanketharal
-- 👀 I’m interested in Web devlopment 
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently pursuing B-TECH in computer engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- my linkedin profile link www.linkedin.com/in/Sanketharal
+My linkedin profile link is www.linkedin.com/in/Sanketharal
 
 
 
