@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sanket Subhash Haral and I'm a pursuing Computer Engineering from Pune university.</h2>
+<h2 align="left">Hi 👋! My name is Sanket Subhash Haral and I am pursuing Computer Engineering from Pune university.</h2>
 
 ###
 
